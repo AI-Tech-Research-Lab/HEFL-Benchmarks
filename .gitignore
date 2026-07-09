@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OpenFHE Python bindings (copied into the workspace by the devcontainer)
+openfhe-python/
+
+# Concrete compiler debug artifacts
+.artifacts/
+
+# Generated benchmark outputs (serialized ciphertexts, keys, plaintext dumps)
+results/
+*.bin
+*.npy
+
+# Local copies of the paper
+*.pdf
