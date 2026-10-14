@@ -11,7 +11,7 @@ Companion code for IEEE TAI survey **"Homomorphic Encryption: The Missing Piece 
 
 ## Running
 
-To run benchmarks, build the .devcontainer, which provides OpenFHE v1.2.4 and Concrete.
+To run benchmarks, build the .devcontainer, which provides OpenFHE and Concrete.
 
 Make sure dependencies have been installed successfully, or run:
 
